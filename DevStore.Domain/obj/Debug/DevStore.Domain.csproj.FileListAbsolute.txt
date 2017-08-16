@@ -1,0 +1,4 @@
+c:\users\754986\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+c:\users\754986\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+c:\users\754986\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+c:\users\754986\documents\visual studio 2013\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
